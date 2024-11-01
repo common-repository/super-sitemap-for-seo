@@ -1,0 +1,9 @@
+{
+    "repositories": [{
+        "type": "vcs",
+        "url": "https://github.com/htmlburger/carbon-fields"
+    }],
+    "require": {
+        "htmlburger/carbon-fields-plugin": "dev-master"
+    }
+}
